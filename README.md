@@ -1,7 +1,11 @@
-Well, det her er bare drag n' drop.
+How to use:
 
-Har ikke gidet at lave det store, har bare gjort, så man kan clear sin egen chat.
+Just drag n' drop the folder into your resources folder.
 
-Kommando: "/clear"
+Start it in your server.cfg
 
-Ikke mere, drag n' drop det ind på din server
+
+
+Command: "/clear"
+
+It sends a message, that the chat has been cleared after you use the command. You can just remove that.
