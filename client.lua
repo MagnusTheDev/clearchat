@@ -1,4 +1,4 @@
 RegisterCommand("clear", function()
   TriggerEvent("chat:clear")
-  TriggerEvent('chatMessage', "^1Du har clearet din chat.")
+  TriggerEvent('chatMessage', "^1Chat cleared.")
 end, false)
